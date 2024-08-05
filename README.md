@@ -1,4 +1,4 @@
-Hello World!
+手順
 
-名前：鬼オン
-パンが好きです
+githubでrepositoryを作る
+git clone http~ でlocalにディレクトリを作る
